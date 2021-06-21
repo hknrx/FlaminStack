@@ -2,7 +2,7 @@
 
 ## History
 
-Flamin Stack is a game that I released on iOS in 2010, and which remained available on the App Store until mid-2018, when Apple suddenly decided that it was violating the "App Store Review Guidelines" (they claimed that that _"This app duplicates the content and functionality of other apps submitted by you or another developer to the App Store, which is considered a form of spam"_) - quite funny for an app that was available for 8 years, with 13 updates (hence, 13 reviews by Apple), 19888 players for the last version  and an average rating of 4.5 stars... But no, you cannot argue with Apple, they just do not care: it was game over for Flamin Stack.
+Flamin Stack is a game that I released on iOS in 2010, and which remained available on the App Store until mid-2018, when Apple suddenly decided that it was violating the _"App Store Review Guidelines"_ (they claimed that _"This app duplicates the content and functionality of other apps submitted by you or another developer to the App Store, which is considered a form of spam"_) - quite funny for an app that was available for 8 years, with 13 updates (hence, 13 reviews by Apple), 19888 players for the last version  and an average rating of 4.5 stars... But no, you cannot argue with Apple, they just do not care: it was game over for Flamin Stack.
 
 First releases of Flamin Stack, back in 2010, were native iOS applications developed with Xcode. In 2016, I rewrote the game from scratch with Unity. The code shown here corresponds to the latest version, v2.1.7, that was made available on the App Store on November 6, 2017 (the old Xcode project can still be found [here](https://github.com/hknrx/Misc/tree/master/iOS/FlaminGames)).
 
